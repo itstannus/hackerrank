@@ -36,6 +36,7 @@ Too chaotic
 public class NewYearChaos {
 
     public static void minimumBribes(List<Integer> q) {
+
         int swapCount=0;
 
         for (int i = q.size()-1 ; i>=0 ; i--){
